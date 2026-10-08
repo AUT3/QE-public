@@ -1,7 +1,7 @@
 # Quantitative Engine public artifacts
 Public artifacts for QuantitativeEngine (QE), a proprietary project
 
-I'm currently working on modularity to make future work much faster. I'm also working on fundamental data gathering in parallel.
+I'm currently working on modularity to make future work much faster. I'm also working on fundamental data gathering in parallel. There are plans to wire it to a broker API (probably IBKR), but right now all of the analysis is done from data saved locally in Postgres from providers.
 
 ## SHOW command (cumprod comparison)
 <img width="1922" height="1112" alt="image" src="https://github.com/user-attachments/assets/f74e2faf-aca8-4c8a-8098-f210a8ec6dbf" />
