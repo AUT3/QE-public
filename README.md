@@ -17,3 +17,6 @@ There is an easy way to add indicators, but currently here are the sample ones:
 
 ## INFO (information about a company) - placeholder while focusing on structure
 <img width="1922" height="1112" alt="image" src="https://github.com/user-attachments/assets/29570052-ebed-4944-9a91-a3c0de2e5bb9" />
+
+## Sample usage
+<img width="1312" height="1392" alt="BB438173-44B1-42DE-81F5-E1C5E6F3820D" src="https://github.com/user-attachments/assets/efd1b53d-37f3-438d-ab2f-20fff0ac1a71" />
